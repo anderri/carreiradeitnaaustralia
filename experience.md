@@ -1,10 +1,14 @@
 # Experience
 
-Tranning Program
+Traning Program
+
+Companies Bootcamp, Mentorship etc&#x20;
 
 Volunteer Jobs
 
 Opensource Projects
 
-Meetups&#x20;
+Meetups as Volunter
+
+Cerification and Portifolio
 
