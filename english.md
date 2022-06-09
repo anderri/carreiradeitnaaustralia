@@ -6,11 +6,14 @@ Qual o nivel de ingles necessario?&#x20;
 
 Cada funcao vai determinar o nivel de habilidade da sua funcao. Obviamente sabemos que quanto mais se afastamos da area tecnica, melhor terei que me comunicar.&#x20;
 
-
+Dev\
+Infra / Support \
+BA\
+Manager&#x20;
 
 Vc precisa se expor para saber se falta e quanto falta.&#x20;
 
-
+****
 
 **Dicas:**&#x20;
 
@@ -21,6 +24,7 @@ Vc precisa se expor para saber se falta e quanto falta.&#x20;
 5. O quanto vc fala nao determina o seu nivel de ingles - existem outros 3 skills lembra? listening, reading and, writing.&#x20;
 6. Priorise o listening e reading - escute muito e leia bastante
 7. Speaking e writing serao consequencias.&#x20;
+8. **Nao espere ficar pronto.**&#x20;
 
 
 
