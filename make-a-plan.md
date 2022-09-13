@@ -24,7 +24,7 @@
 
 
 
-#### How to find a job&#x20;
+#### How to apply for job&#x20;
 
 Phase 1 - Preparation \
 \- Don't be generic, be specialist \
