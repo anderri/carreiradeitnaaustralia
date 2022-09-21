@@ -54,7 +54,7 @@ Phase 2 - Job Applications\
 
 
 
-
+[https://www.linkedin.com/in/abelcak/](https://www.linkedin.com/in/abelcak/)
 
 #### Replying after interview
 
