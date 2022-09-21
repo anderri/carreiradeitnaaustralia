@@ -50,7 +50,25 @@ Phase 2 - Job Applications\
 \- Nothing is important if the company wants to hire you (Visa, English, Experience).&#x20;
 
 &#x20;Phase 4 (Optional)\
-\- Once you get a job - don't leave IT.BR - help the community \
+\- Once you get a job - don't leave IT.BR - help the community&#x20;
+
+
+
+Hi XXXX,
+
+Thank you for making my interview on Tuesday so pleasant. I loved getting to hear about how CSR's typical workday looks like and was especially impressed by your excitement in sharing your experience at the company. Your happiness was contagious!
+
+My enthusiasm for the position and working for Elastic is only growing. I would be thrilled to meet you again as a colleague.
+
+In addition, I'm confident that I would be a great fit for this position because of my customer support experience. Having worked for multiple companies in different roles there has always been one thing that remains consistent, my satisfaction in helping people solve problems.
+
+I also enjoyed knowing we have similar hobbies like running and cooking. It was nice to know you like being around the kitchen and trying new recipes :)
+
+Thank you again for taking the time to talk with me, and I look forward to hearing back from the recruitment team.
+
+Have a good day!
+
+Warm Regards, Anderson\
 \
 \
 
