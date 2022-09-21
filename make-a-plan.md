@@ -54,6 +54,10 @@ Phase 2 - Job Applications\
 
 
 
+
+
+#### Replying after interview
+
 Hi XXXX,
 
 Thank you for making my interview on Tuesday so pleasant. I loved getting to hear about how CSR's typical workday looks like and was especially impressed by your excitement in sharing your experience at the company. Your happiness was contagious!
@@ -72,4 +76,30 @@ Warm Regards, Anderson\
 \
 \
 
+
+#### Negociating Salary
+
+Hi Marcio,
+
+Thanks for your response, glad to see you might be interested!
+
+Salary wise we are open to negotiation, depending on level of experience. May I know what you would be expecting and I can let you know if that would be within our scope?
+
+Very happy to chat further with you if all aligns!
+
+Thanks, Sam&#x20;
+
+
+
+Hi Samatha,
+
+Many thanks for getting back to me.
+
+My expectations are flexible and I’m happy to discuss them, but my top priority is making sure this is the right fit for both of us.
+
+Also, I completely understand that you can’t move forward without a figure, that’s fair.
+
+Would you be open to sharing the range you have budgeted for this role? That way we can make sure we’re aligned.
+
+Thanks, Marcio
 
