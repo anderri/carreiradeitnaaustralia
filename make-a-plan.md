@@ -73,8 +73,28 @@ Thank you again for taking the time to talk with me, and I look forward to heari
 Have a good day!
 
 Warm Regards, Anderson\
-\
-\
+
+
+#### Replying Negative Answer&#x20;
+
+Thanks for letting me know about your decision.
+
+While I’ll admit that It’s not good to know I won’t be able to go further in the process, I really appreciate the time you spent speaking with me about the position, your company’s climate and history, and the wonderful opportunities available within your organization.
+
+Your professionalism and attention in every message on LinkedIn, phone calls and emails made me feel a special candidate. There's no better feeling for someone that is trying to get back into the market after a gap, especially in another country. You’re doing a great job and I’m super grateful for have had this experience conducted by you.
+
+Certainly, the final candidate will admire this company as much as I do.
+
+I hope that you'll keep me in mind for future opportunities, as I know Mimecast is growing. Meanwhile, I'll keep improving my skills.
+
+I'd love the chance to have our paths crossed again. Let’s keep in touch, for sure.
+
+I’m wishing you and Mimecast all the best moving forward.
+
+Thank you for your time and encouragement.
+
+Sincerely, Marcio Amaral
+
 
 
 #### Negociating Salary
