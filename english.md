@@ -1,9 +1,5 @@
 # English
 
-Cheguei aqui com intermediario do Brasil ou seja o basico aqui. O que mais me ajudou foram os podcasts&#x20;
-
-
-
 English - eh fundamental&#x20;
 
 Qual o nivel de ingles necessario?&#x20;
@@ -41,9 +37,7 @@ Lugares para praticar:&#x20;
 
 
 
-Eu criei um projeto para ajudar as pessoas a aprender ingles - estou lancando hoje aqui - Eu organizei tudo dentro dessa plataforma com os melhores videos do youtube - baseado nos livros que aprendi - gramatica, speaking,  interview e muito mais. Estou precisando de voluntarios para me ajudar com criacao de exercicios e tal.&#x20;
-
-[https://u2demy.com/courses/general-english-course/](https://u2demy.com/courses/general-english-course/)
+Eu criei um projeto para ajudar as pessoas a aprender ingles - estou lancando hoje aqui - Eu organizei tudo dentro dessa plataforma com os melhores videos do youtube - baseado nso livros que aprendi - gramatica, speaking,  interview e muito mais. Estou precisando de voluntarios para me ajudar com criacao de exercicios e tal.&#x20;
 
 
 
