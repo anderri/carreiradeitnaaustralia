@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Disclamer](README.md)
-* [Minha historia](minha-historia.md)
-* [Mercado  Brasil X Australia](mercado-brasil-x-australia.md)
+* [Anderson x Australia](anderson-x-australia.md)
+* [Minha historia profissional](minha-historia-profissional.md)
+* [Mercado IT - Brasil X Australia](mercado-it-brasil-x-australia.md)
 * [English](english.md)
 * [Visto](visto.md)
 * [Hard Skills](hard-skills.md)
