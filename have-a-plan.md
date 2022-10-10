@@ -1,24 +1,16 @@
-# Make a plan
-
-#### Visto
+# Have a plan
 
 
 
 #### English
 
-
+#### Visa
 
 #### Hard Skills
 
-
-
 #### Experience
 
-
-
 #### Soft Skills
-
-
 
 #### Networking
 

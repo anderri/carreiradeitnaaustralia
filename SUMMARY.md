@@ -10,4 +10,4 @@
 * [Experience](experience.md)
 * [Soft Skills](soft-skills.md)
 * [Networking](networking.md)
-* [Make a plan](make-a-plan.md)
+* [Have a plan](have-a-plan.md)
