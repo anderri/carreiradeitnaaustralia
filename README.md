@@ -1,10 +1,10 @@
-# Anderson x Australia
+# Minha historia com Australia 🇦🇺
 
-Sou de Sao Paulo capital - Zona Leste - pra quem conhece, morei em Sao Miguel Paulista a maior parte e 5 anos na Vila Prudente antes de vir pra Australia.&#x20;
+Ola, meu nome eh Anderson, nasci e cresci em Sao Paulo capital antes de vir pra Australia.&#x20;
 
-Cheguei em Sydney 2016 com objeitvo de melhorar o ingles e se possivel ter uma experiencia internacional e voltar. Alguem ja ouviu essa historia?&#x20;
+Cheguei em Sydney 2016 com objeitvo de melhorar o ingles, ter uma experiencia internacional e voltar para o Brasil. Alguem ja ouviu essa historia se repetir por ai?&#x20;
 
-Trabalhei 2 anos com aplicativo de entregas (Deliveroo e Uber) e nesse tempo fui fazendo trabalhos casuais com suporte de IT - pesquisem tem vagas assim. \
+Quando cheguei, trabalhei 2 anos com aplicativo de entregas (Deliveroo e Uber) e nesse tempo fui fazendo trabalhos casuais com suporte de IT - pesquisem tem vagas assim. \
 \
 Nesse tempo, conheci cada pedacinho da cidade\
 Vistas comos essas ->  \
