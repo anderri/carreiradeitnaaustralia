@@ -1,7 +1,5 @@
 # Have a plan
 
-
-
 #### English
 
 #### Visa
